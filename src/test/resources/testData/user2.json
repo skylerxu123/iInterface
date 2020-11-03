@@ -1,0 +1,29 @@
+{
+  "provCode": "330000",
+  "cityCode": "330200",
+  "roleId": 28,
+  "groupId": 31,
+  "organizationId": 459,
+  "realName": "武斌2",
+  "payrollCategory": "调度专员",
+  "entryStatus": 1,
+  "phone": "15835371164",
+  "warehouseId": 1,
+  "isShift": 1,
+  "siteId": 1409,
+  "detail": {
+    "regionCode": "937000",
+    "provCode": "330000",
+    "city": "宁波市",
+    "warehouseId": 1,
+    "cityCode": "330200",
+    "siteId": 1409,
+    "siteName": "大同云冈站",
+    "prov": "浙江省",
+    "warehouseName": "宁波鄞州站"
+  },
+  "department": "运维组",
+  "region": "937000",
+  "username": "3441",
+  "status": 0
+}

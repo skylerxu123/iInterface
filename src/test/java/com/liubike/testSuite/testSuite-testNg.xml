@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="小遛共享APP" preserve-order="true" parallel="classes" thread-count="1">
+    <listeners>
+        <listener class-name="com.liubike.tools.ZTestReport"/>
+    </listeners>
+
+<!--    一个test就是一条用例场景，一个大的用例场景哦，前置用例参数这行必须要写-->
+    <test name="天气接口测试">
+        <classes><class name="com.liubike.testcase.TestExec">
+<!--                <methods><include name="getBeiJing_Succ"/></methods>-->
+        </class></classes>
+    </test>
+
+        <test name="用户接口测试">
+            <classes><class name="com.liubike.testcase.testUser">
+<!--                <methods><include name="sendPostRequest"/></methods>-->
+            </class></classes>
+        </test>
+
+</suite>

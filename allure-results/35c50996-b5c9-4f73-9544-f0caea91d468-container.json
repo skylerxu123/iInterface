@@ -1,0 +1,1 @@
+{"uuid":"35c50996-b5c9-4f73-9544-f0caea91d468","name":"com.liubike.testcase.TestExec","children":["cbb3768c-9de5-437c-bdc0-ac28b17ccbb1"],"befores":[{"name":"beforeSuit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1604371895076,"stop":1604371895084}],"afters":[],"links":[],"start":1604371895066,"stop":1604371896279}
