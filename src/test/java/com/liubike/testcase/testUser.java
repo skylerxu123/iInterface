@@ -21,8 +21,8 @@ public class testUser extends testBase {
     @BeforeTest
     public void beforeTest(){
         Properties prop = loadFromEnvProperties("userInfo.properties");
-        String server_address = prop.getProperty("server_addr", "newtestsso.xlgxapp.com");
-        url = "http://" + server_address + "/erp-admin-sso/api/v1/admin/user/create";
+        String server_address = prop.getProperty("server_addr", "xxxxxxxx");
+        url = "http://" + server_address + "xxxxxx";
         Reporter.log("发送的请求地址为：" + url);
     }
 
